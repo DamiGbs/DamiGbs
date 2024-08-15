@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamiGbs
 - GBS Szene
-- I Just changed this line...
+- School account
 
 <!---
 DamiGbs/DamiGbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
